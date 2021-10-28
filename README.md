@@ -11,9 +11,9 @@ only once when the app is installed.
 
 ### User registration
 
-<img src="images/Screenshot_20211028-151202.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Screenshot_20211028-151149.png" width="400" style="margin-left:50px;">
+<img src="images/Screenshot_20211028-151202.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Screenshot_20211028-151149.png" width="300">
 
 ### Chatbot in action
 
-<img src="images/Screenshot_20211028-151028.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Screenshot_20211028-151010.png" width="400">
+<img src="images/Screenshot_20211028-151028.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Screenshot_20211028-151010.png" width="300">
 
