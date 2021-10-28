@@ -1,4 +1,4 @@
-# Memory Assitant - an android app for helping Alzheimer patients
+# Memory Assistant - an android app for helping Alzheimer patients
 
 It is an android app built in the form of a chatbot using AIML which helps alzhemier patients whenever they forget anything. It has the ability to talk with the paitient
 and provide information ranging from their names to emergency numbers and various other info. It can also be used to view directions back to home, incase the person is lost 
